@@ -1,5 +1,6 @@
 # based on solution2.2.py
 # use dictionary for the search
+# I made edition to test github
 
 class state:
     ''' object: state '''
